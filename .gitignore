@@ -1,0 +1,5 @@
+node_modeles/
+.DS_Store
+.env
+*.log
+dist/
