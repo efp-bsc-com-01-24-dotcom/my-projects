@@ -1,3 +1,21 @@
+* commit 4e52435769b73e71fc3e488f3de1a8e80417161e
+| Author: efp-bsc-com-01-24-dot-com <efp-bsc-com-01-24@unima.ac.mw>
+| Date:   Fri Mar 6 09:39:59 2026 +0200
+| 
+|     add login and singin pages
+| 
+* commit b58303b4df29a2fbad9c0d5b27cb2ba99f2beaac
+| Author: efp-bsc-com-01-24-dot-com <efp-bsc-com-01-24@unima.ac.mw>
+| Date:   Fri Mar 6 09:32:47 2026 +0200
+| 
+|     add pages folder and webfiles
+| 
+* commit fef8ccd72a07c46d723c40b88b783b1d19b87eb5
+| Author: efp-bsc-com-01-24-dot-com <efp-bsc-com-01-24@unima.ac.mw>
+| Date:   Thu Mar 5 20:57:29 2026 +0200
+| 
+|     add efp-bsc-com-01-24 to repo
+| 
 * commit 0013fdc5637ecf48804d3393510809d5aa4e6e79
 | Author: efp-bsc-com-01-24-dot-com <efp-bsc-com-01-24@unima.ac.mw>
 | Date:   Thu Mar 5 20:38:02 2026 +0200
